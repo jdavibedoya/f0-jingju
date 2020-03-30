@@ -1,0 +1,6 @@
+crepe==0.0.10
+matplotlib==3.1.0
+numpy==1.16.4
+essentia==2.1b6.dev184
+mir_eval==0.5
+protobuf==3.11.3
